@@ -12,7 +12,6 @@ function CollectionTopFilter() {
                 <p className='w-6/12 text-center border-e-2'>FILTER</p>
                 <button class='flex w-6/12 justify-center cursor-pointer items-center gap-2 border-gray-400 pb-1 text-gray-900 transition hover:border-gray-600'>
                   <span class='text-sm font-medium'> RECOMMENDED </span>
-
                   <svg
                     xmlns='http://www.w3.org/2000/svg'
                     fill='none'
