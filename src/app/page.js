@@ -1,3 +1,4 @@
+'use client'
 import Footer from "@/Components/Footer/Footer";
 import HomeTopText from "@/Components/HomeTopText/HomeTopText";
 import ProductCollection from "@/Components/ProductCollection/ProductCollection";
